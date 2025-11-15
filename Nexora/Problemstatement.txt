@@ -1,4 +1,4 @@
-ask: Prototype a "Vibe Matcher" Notebook
+Task: Prototype a "Vibe Matcher" Notebook
 Context: Build a mini rec system: Input vibe query → Embed products → Match top-3 via cosine similarity. Use sample fashion data (5-10 items w/ descriptions).
 
 Data Prep (45-60 min): Create a Pandas DF w/ 5-10 mock products (e.g., {"name": "Boho Dress", "desc": "Flowy, earthy tones for festival vibes"}). Tag vibes (e.g., ["boho", "cozy"]).
